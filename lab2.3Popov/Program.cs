@@ -1,4 +1,4 @@
-﻿//средний 26
+﻿//средний 2
 Console.Write("Введите n:");
 int n = int.Parse(Console.ReadLine());
 Console.Write("Введите x:");
